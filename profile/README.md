@@ -4,7 +4,6 @@
 You may also help us improve our network by contributing into these plugins:
 - [CarbonChat](https://github.com/Hexaoxide/Carbon)
 - [ChessCraft](https://github.com/jpenilla/chesscraft)
-- [Citizens2](https://github.com/CitizensDev/Citizens2)
 - [DiscordWhitelist](https://github.com/fabianmakila/discordwhitelist)
 - [FancyHolograms](https://github.com/FancyInnovations/fancyplugins)
 - [Grim](https://github.com/GrimAnticheat)
@@ -20,6 +19,7 @@ You may also help us improve our network by contributing into these plugins:
 - [PacketEvents](https://github.com/retrooper/packetevents)
 - [PlayerList](https://github.com/fabianmakila/playerlist)
 - [SignedVelocity](https://github.com/4drian3d/SignedVelocity)
-- [VillageLobotomizer](https://github.com/mja00/VillagerLobotimizer)
+- [Typewriter](https://github.com/gabber235/Typewriter)
+- [VillagerLobotomizer](https://github.com/mja00/VillagerLobotimizer)
 - [WebhookLogger](https://github.com/fabianmakila/webhooklogger)
 - [WorldEdit](https://github.com/EngineHub/WorldEdit)
